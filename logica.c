@@ -117,12 +117,6 @@ int jogo(void) {
             }
         }
         if (jaTentou) continue;
-        // if (chances=6){pontuacao=10;}
-        // else if (chances=5){pontuacao=8;}
-        // else if (chances=4){pontuacao=6;}
-        // else if (chances=3){pontuacao=4;}
-        // else if (chances=2){pontuacao=2;}
-        // else if (chances=1){pontuacao=1;}
 
         int ganhou = 1;
         int achou = 0;
